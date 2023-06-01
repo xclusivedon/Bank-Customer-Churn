@@ -30,7 +30,7 @@
 ## Dashboard View 
 ![BankChurnDashboard](https://github.com/xclusivedon/Bank-Customer-Churn/assets/80249869/22ec2973-e625-4be5-bbb1-a6b34dc1937c)
 
-## Dashboard Report View 
+## Online Report View 
 ![DashboardRepo](https://github.com/xclusivedon/Bank-Customer-Churn/assets/80249869/1b4ff900-f921-468f-8125-110da9ba7f62)
 
 ## Mobile View1
