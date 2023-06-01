@@ -25,7 +25,7 @@
 
 
 
-# Power BI Service (Online View) :
+## Power BI Service (Online View) :
 
 ## Dashboard View 
 ![BankChurnDashboard](https://github.com/xclusivedon/Bank-Customer-Churn/assets/80249869/22ec2973-e625-4be5-bbb1-a6b34dc1937c)
